@@ -10202,7 +10202,7 @@ msgstr "Ligne"
 
 #: superset/initialization/__init__.py:274
 msgid "Row Level Security"
-msgstr "Sécurité de niveau ligne quad"
+msgstr "Sécurité de niveau ligne quin"
 
 #: superset/views/database/forms.py:153 superset/views/database/forms.py:306
 msgid ""
